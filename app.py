@@ -6,7 +6,13 @@ app = Flask(__name__)
 # =======================
 # Load ML model & encoders
 # =======================
-model = pickle.load(open("model/career_model.pkl", "rb"))
+import os
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+MODEL_DIR = os.path.join(BASE_DIR, "model")
+model = pickle.load(open(os.path.join(MODEL_DIR, "career_model.pkl"), "rb"))
+edu_encoder = pickle.load(open(os.path.join(MODEL_DIR, "edu_encoder.pkl"), "rb"))
+interest_encoder = pickle.load(open(os.path.join(MODEL_DIR, "interest_encoder.pkl"), "rb"))
+role_encoder = pickle.load(open(os.path.join(MODEL_DIR, "role_encoder.pkl"), "rb"))
 edu_encoder = pickle.load(open("model/edu_encoder.pkl", "rb"))
 interest_encoder = pickle.load(open("model/interest_encoder.pkl", "rb"))
 role_encoder = pickle.load(open("model/role_encoder.pkl", "rb"))
