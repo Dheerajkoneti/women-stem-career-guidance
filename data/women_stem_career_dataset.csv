@@ -1,0 +1,301 @@
+education,skills,experience,career_gap,interest,preferred_role
+MSc Physics,SQL Python Statistics,3,2,Data,IoT Engineer
+BSc Maths,ML Python DL,3,0,AI,Data Analyst
+MSc Computer Science,SQL Java,0,3,Backend,IoT Engineer
+BTech ECE,Spring Java,1,1,Backend,IoT Engineer
+BTech ECE,Python ML,2,2,Research,IoT Engineer
+MSc Physics,ML Python,2,2,AI,AI Researcher
+BTech IT,DL Python ML,4,2,AI,Software Engineer
+BTech CSE,DL Python,2,0,AI,AI Researcher
+MSc Computer Science,Statistics ML,2,2,Research,Data Scientist
+MSc Computer Science,ML DL Python,3,3,AI,ML Engineer
+MSc Computer Science,Python ML,3,1,Research,Data Scientist
+BTech IT,ML DL,5,0,AI,IoT Engineer
+MSc Computer Science,CSS HTML,4,3,Web,IoT Engineer
+BSc Maths,Statistics Python SQL,0,1,Data,Software Engineer
+MSc Physics,Statistics Python SQL,3,1,Data,Data Scientist
+BTech CSE,ML Statistics,0,2,Research,AI Researcher
+BTech ECE,Statistics Python SQL,3,3,Data,Data Scientist
+BSc Maths,DL Python,2,3,AI,ML Engineer
+BSc Maths,ML Statistics Python,2,2,Research,IoT Engineer
+MSc Computer Science,Java SQL Spring,1,0,Backend,Software Engineer
+BTech IT,ML DL Python,5,1,AI,ML Engineer
+BTech CSE,Embedded Python Sensors,1,1,IoT,Data Analyst
+BTech ECE,Python Statistics SQL,5,0,Data,Software Engineer
+BTech ECE,Python ML Statistics,3,1,Research,Software Engineer
+BSc Maths,DL Python,5,3,AI,AI Researcher
+BTech IT,Embedded Sensors,4,3,IoT,ML Engineer
+BTech ECE,CSS HTML JavaScript,5,3,Web,ML Engineer
+BTech CSE,Python SQL Statistics,2,2,Data,Software Engineer
+MSc Computer Science,Python Statistics SQL,4,0,Data,AI Researcher
+MSc Physics,Statistics ML Python,3,2,Research,ML Engineer
+BSc Maths,Sensors Embedded,3,3,IoT,Data Scientist
+BTech ECE,JavaScript CSS HTML,4,3,Web,Data Analyst
+BSc Maths,Python ML,0,0,Research,ML Engineer
+MSc Computer Science,Statistics ML Python,0,2,Research,ML Engineer
+BTech CSE,Java SQL,0,2,Backend,Data Scientist
+BTech CSE,Spring Java SQL,4,3,Backend,Software Engineer
+BSc Maths,Python SQL Statistics,4,3,Data,Data Analyst
+BTech IT,SQL Java,2,3,Backend,Data Analyst
+MSc Computer Science,HTML JavaScript CSS,3,0,Web,Data Scientist
+MSc Computer Science,Python Statistics SQL,0,3,Data,Data Analyst
+BTech ECE,Statistics Python SQL,5,2,Data,AI Researcher
+BTech IT,ML Python,3,2,Research,ML Engineer
+BTech IT,Python Statistics ML,1,3,Research,AI Researcher
+MSc Computer Science,Statistics Python,0,1,Data,Data Analyst
+BTech IT,Statistics ML,1,1,Research,IoT Engineer
+BSc Maths,Spring SQL Java,0,0,Backend,IoT Engineer
+MSc Computer Science,Python DL ML,0,2,AI,Data Analyst
+MSc Computer Science,Statistics Python,0,1,Data,AI Researcher
+MSc Physics,Sensors Embedded,2,0,IoT,Data Scientist
+MSc Physics,Statistics Python ML,3,2,Research,AI Researcher
+BSc Maths,Java SQL,5,0,Backend,Data Analyst
+BSc Maths,ML Python Statistics,0,3,Research,Software Engineer
+BTech IT,Embedded Python Sensors,0,3,IoT,IoT Engineer
+BTech CSE,Java SQL Spring,4,0,Backend,IoT Engineer
+BTech IT,SQL Java,4,2,Backend,Software Engineer
+BTech ECE,SQL Java Spring,0,0,Backend,IoT Engineer
+BTech CSE,JavaScript HTML CSS,5,1,Web,AI Researcher
+BSc Maths,SQL Statistics,0,3,Data,Data Scientist
+BTech ECE,Python DL,4,0,AI,Data Scientist
+MSc Physics,SQL Python Statistics,4,3,Data,Data Analyst
+MSc Computer Science,SQL Java,0,3,Backend,Data Analyst
+BTech ECE,Statistics ML,5,0,Research,Software Engineer
+MSc Computer Science,DL Python,3,3,AI,Software Engineer
+MSc Physics,Python Statistics,3,1,Research,AI Researcher
+BTech CSE,DL ML,2,0,AI,Data Scientist
+BSc Maths,Spring Java,4,2,Backend,Data Scientist
+MSc Computer Science,HTML CSS JavaScript,0,2,Web,Data Analyst
+BTech ECE,Sensors Embedded Python,5,0,IoT,AI Researcher
+MSc Computer Science,Python Sensors Embedded,0,1,IoT,Data Analyst
+BTech IT,Statistics Python ML,4,3,Research,AI Researcher
+MSc Computer Science,Embedded Sensors,0,3,IoT,ML Engineer
+MSc Physics,Python ML,5,2,Research,Software Engineer
+BSc Maths,Python SQL,2,2,Data,ML Engineer
+BSc Maths,ML Python Statistics,2,1,Research,AI Researcher
+BTech ECE,HTML JavaScript CSS,1,3,Web,ML Engineer
+BSc Maths,ML Python Statistics,3,1,Research,Software Engineer
+MSc Computer Science,ML DL Python,1,1,AI,ML Engineer
+BTech IT,ML DL,3,3,AI,Data Analyst
+BSc Maths,Statistics SQL Python,2,0,Data,ML Engineer
+BTech IT,SQL Statistics,5,1,Data,Data Scientist
+BTech IT,CSS HTML JavaScript,1,3,Web,IoT Engineer
+BTech IT,ML DL,4,0,AI,IoT Engineer
+MSc Computer Science,Statistics Python,1,2,Research,Data Scientist
+BTech CSE,Python Sensors Embedded,2,0,IoT,Software Engineer
+BTech ECE,JavaScript HTML,0,3,Web,Software Engineer
+MSc Computer Science,ML Python Statistics,0,3,Research,Data Analyst
+BTech CSE,SQL Python Statistics,3,2,Data,IoT Engineer
+MSc Physics,Spring Java,4,2,Backend,AI Researcher
+BTech IT,Python ML Statistics,4,2,Research,IoT Engineer
+MSc Physics,Python SQL,5,0,Data,AI Researcher
+MSc Computer Science,Statistics Python SQL,1,3,Data,Software Engineer
+MSc Physics,HTML CSS,1,0,Web,AI Researcher
+MSc Computer Science,DL Python ML,4,0,AI,Data Analyst
+MSc Computer Science,DL Python,0,3,AI,IoT Engineer
+BTech IT,Statistics ML Python,0,2,Research,Data Analyst
+MSc Computer Science,SQL Statistics,4,0,Data,IoT Engineer
+BTech IT,HTML CSS,2,3,Web,Data Analyst
+BTech ECE,Java SQL,2,1,Backend,Software Engineer
+BTech ECE,ML Python Statistics,5,0,Research,Data Scientist
+MSc Physics,SQL Python Statistics,4,2,Data,Data Analyst
+BTech CSE,ML Statistics Python,0,1,Research,ML Engineer
+MSc Computer Science,Statistics ML,5,0,Research,IoT Engineer
+MSc Physics,SQL Python Statistics,2,0,Data,Software Engineer
+BTech CSE,Statistics Python SQL,0,2,Data,Data Scientist
+BTech IT,Embedded Sensors,5,0,IoT,ML Engineer
+MSc Computer Science,ML DL Python,4,1,AI,Software Engineer
+BSc Maths,CSS HTML JavaScript,3,2,Web,ML Engineer
+BSc Maths,Java SQL Spring,1,3,Backend,IoT Engineer
+BTech ECE,SQL Python Statistics,1,3,Data,AI Researcher
+BTech CSE,DL ML,4,1,AI,Software Engineer
+BTech IT,CSS JavaScript,3,3,Web,AI Researcher
+MSc Physics,CSS HTML,4,1,Web,AI Researcher
+BTech ECE,Python Statistics,1,0,Data,AI Researcher
+MSc Computer Science,Python SQL,1,1,Data,ML Engineer
+MSc Computer Science,Python ML,0,1,AI,IoT Engineer
+MSc Computer Science,Python ML DL,2,0,AI,AI Researcher
+BTech CSE,HTML CSS,0,2,Web,IoT Engineer
+MSc Physics,JavaScript CSS,3,1,Web,IoT Engineer
+MSc Computer Science,Java Spring SQL,1,1,Backend,AI Researcher
+BSc Maths,Python ML DL,2,0,AI,Software Engineer
+BTech ECE,SQL Python Statistics,2,3,Data,Software Engineer
+BTech IT,SQL Statistics Python,3,0,Data,Data Analyst
+BTech ECE,SQL Python Statistics,5,3,Data,Data Analyst
+BSc Maths,Python DL ML,5,1,AI,Data Analyst
+BTech IT,CSS JavaScript HTML,4,3,Web,ML Engineer
+BSc Maths,HTML JavaScript CSS,3,3,Web,IoT Engineer
+BTech ECE,Python Statistics ML,0,3,Research,AI Researcher
+BSc Maths,Embedded Python Sensors,0,3,IoT,Software Engineer
+BTech IT,Python DL ML,4,3,AI,Software Engineer
+BTech CSE,Embedded Sensors Python,2,2,IoT,ML Engineer
+BTech IT,ML Statistics Python,5,3,Research,IoT Engineer
+MSc Computer Science,Sensors Python Embedded,5,2,IoT,IoT Engineer
+BTech CSE,Python ML DL,1,2,AI,Software Engineer
+BTech ECE,Python Sensors Embedded,4,1,IoT,Data Analyst
+MSc Computer Science,Sensors Python,5,1,IoT,Data Scientist
+BTech ECE,JavaScript HTML CSS,5,0,Web,AI Researcher
+MSc Physics,Embedded Python Sensors,2,0,IoT,Data Analyst
+BSc Maths,Python Sensors,0,0,IoT,AI Researcher
+BTech IT,JavaScript CSS,1,1,Web,Data Analyst
+MSc Computer Science,Python ML,4,2,Research,ML Engineer
+BSc Maths,Java SQL,0,0,Backend,IoT Engineer
+MSc Physics,Spring Java SQL,0,0,Backend,Data Scientist
+BTech IT,Python ML,4,1,AI,AI Researcher
+BSc Maths,DL Python,3,3,AI,Data Scientist
+BTech CSE,Python Embedded Sensors,2,3,IoT,AI Researcher
+BTech ECE,Statistics SQL,0,3,Data,AI Researcher
+BTech CSE,JavaScript CSS HTML,1,1,Web,Data Analyst
+BTech ECE,Statistics Python SQL,4,1,Data,IoT Engineer
+MSc Physics,Spring Java,2,2,Backend,Data Scientist
+BTech IT,Java Spring SQL,2,2,Backend,ML Engineer
+MSc Computer Science,Java Spring SQL,4,2,Backend,Data Scientist
+BTech IT,Python ML,3,0,AI,Data Scientist
+MSc Physics,Spring Java,5,0,Backend,AI Researcher
+BTech ECE,Python ML,3,2,Research,AI Researcher
+BSc Maths,Python SQL Statistics,4,2,Data,IoT Engineer
+MSc Physics,SQL Statistics,3,1,Data,IoT Engineer
+BTech IT,Embedded Sensors,3,1,IoT,AI Researcher
+BTech IT,SQL Spring,4,1,Backend,Software Engineer
+MSc Physics,Python DL,4,1,AI,Data Scientist
+BSc Maths,HTML JavaScript CSS,5,0,Web,IoT Engineer
+MSc Physics,DL ML Python,3,3,AI,IoT Engineer
+BTech ECE,SQL Statistics Python,2,0,Data,Data Scientist
+BSc Maths,Python Embedded,3,1,IoT,IoT Engineer
+BSc Maths,ML Python DL,4,1,AI,ML Engineer
+MSc Computer Science,SQL Java,2,1,Backend,Data Analyst
+BTech ECE,DL ML Python,5,3,AI,Software Engineer
+MSc Computer Science,SQL Spring Java,3,2,Backend,Data Scientist
+BTech CSE,SQL Statistics Python,1,1,Data,AI Researcher
+BTech CSE,JavaScript CSS,3,1,Web,Data Analyst
+BTech IT,JavaScript CSS HTML,3,3,Web,AI Researcher
+BSc Maths,Python ML DL,1,1,AI,Software Engineer
+BTech IT,HTML JavaScript,3,2,Web,IoT Engineer
+BTech ECE,DL ML Python,2,0,AI,Data Analyst
+MSc Computer Science,Python SQL,1,0,Data,Data Analyst
+BSc Maths,JavaScript HTML,0,2,Web,IoT Engineer
+BTech IT,ML Python Statistics,5,2,Research,Data Scientist
+BTech ECE,Statistics Python SQL,1,0,Data,IoT Engineer
+MSc Physics,Python SQL,2,2,Data,Software Engineer
+BTech CSE,JavaScript HTML,1,1,Web,IoT Engineer
+MSc Computer Science,Python Sensors Embedded,5,2,IoT,IoT Engineer
+BTech IT,Sensors Python,3,2,IoT,Data Scientist
+BTech ECE,Python DL,4,3,AI,AI Researcher
+BTech IT,Sensors Python Embedded,1,3,IoT,Data Scientist
+BSc Maths,JavaScript HTML,0,3,Web,Data Scientist
+BTech IT,Statistics ML Python,5,2,Research,ML Engineer
+BSc Maths,Java Spring SQL,3,1,Backend,Data Analyst
+BTech IT,SQL Python Statistics,2,3,Data,Software Engineer
+BTech IT,Embedded Sensors,3,3,IoT,Data Scientist
+BTech CSE,ML Python,3,3,AI,Data Scientist
+BTech ECE,Java Spring SQL,3,2,Backend,Software Engineer
+BTech IT,ML DL,0,2,AI,AI Researcher
+BTech ECE,SQL Spring Java,4,0,Backend,IoT Engineer
+MSc Computer Science,CSS HTML,5,1,Web,IoT Engineer
+BSc Maths,CSS JavaScript HTML,0,1,Web,IoT Engineer
+MSc Computer Science,Embedded Python Sensors,5,1,IoT,Software Engineer
+BSc Maths,Statistics SQL Python,2,3,Data,IoT Engineer
+BTech IT,Embedded Python,1,2,IoT,Software Engineer
+BTech CSE,Python DL,0,3,AI,Data Analyst
+BTech IT,HTML CSS,5,2,Web,AI Researcher
+BSc Maths,Sensors Embedded Python,3,3,IoT,Data Analyst
+BTech CSE,Python Statistics,0,3,Data,ML Engineer
+MSc Computer Science,Statistics Python,4,1,Data,AI Researcher
+BSc Maths,ML Statistics,2,1,Research,ML Engineer
+BTech ECE,Sensors Python,1,1,IoT,Software Engineer
+BSc Maths,Statistics SQL Python,5,2,Data,AI Researcher
+BSc Maths,JavaScript HTML CSS,3,3,Web,Data Analyst
+BTech CSE,CSS JavaScript,0,2,Web,Software Engineer
+BTech IT,Spring Java SQL,5,3,Backend,Data Analyst
+BTech IT,SQL Python Statistics,3,0,Data,Data Analyst
+BSc Maths,Python Embedded,1,0,IoT,AI Researcher
+BTech IT,ML Statistics Python,1,1,Research,Software Engineer
+MSc Computer Science,Java Spring SQL,1,1,Backend,Data Analyst
+BTech CSE,ML Statistics,4,0,Research,Data Scientist
+MSc Physics,ML Python Statistics,0,0,Research,ML Engineer
+MSc Computer Science,Spring Java SQL,1,2,Backend,Software Engineer
+BTech CSE,JavaScript CSS HTML,4,3,Web,Software Engineer
+BSc Maths,DL Python ML,1,1,AI,ML Engineer
+BTech CSE,Python Embedded Sensors,5,0,IoT,Data Analyst
+MSc Physics,JavaScript CSS HTML,0,3,Web,IoT Engineer
+MSc Physics,Statistics Python SQL,4,0,Data,Data Analyst
+MSc Computer Science,Python Statistics,2,3,Research,Data Scientist
+BSc Maths,Spring Java SQL,3,2,Backend,AI Researcher
+BTech IT,Statistics ML Python,3,2,Research,Data Scientist
+BTech ECE,Python ML Statistics,1,3,Research,AI Researcher
+MSc Computer Science,Sensors Embedded Python,5,1,IoT,Data Scientist
+BTech ECE,ML Python DL,3,3,AI,ML Engineer
+MSc Computer Science,SQL Python Statistics,1,3,Data,Software Engineer
+BTech CSE,Statistics SQL,3,2,Data,Data Analyst
+MSc Physics,CSS HTML JavaScript,2,1,Web,AI Researcher
+BSc Maths,Python ML Statistics,5,0,Research,Data Analyst
+MSc Physics,CSS HTML,2,3,Web,Software Engineer
+BTech ECE,Java Spring,2,0,Backend,Software Engineer
+MSc Computer Science,Statistics SQL Python,2,1,Data,AI Researcher
+MSc Computer Science,Java Spring,2,2,Backend,Software Engineer
+MSc Computer Science,Statistics ML Python,2,0,Research,Data Analyst
+MSc Physics,CSS JavaScript HTML,4,2,Web,Data Scientist
+BSc Maths,ML Statistics Python,3,2,Research,AI Researcher
+MSc Computer Science,Statistics SQL Python,4,2,Data,ML Engineer
+BTech IT,Python Embedded,5,3,IoT,Data Scientist
+MSc Computer Science,SQL Java Spring,2,2,Backend,IoT Engineer
+BTech IT,HTML CSS JavaScript,2,0,Web,ML Engineer
+BTech CSE,Embedded Sensors Python,4,0,IoT,Data Analyst
+BTech CSE,Statistics Python,0,0,Data,ML Engineer
+BTech ECE,SQL Java Spring,3,1,Backend,ML Engineer
+BTech ECE,Sensors Python Embedded,2,3,IoT,Software Engineer
+MSc Physics,Sensors Python Embedded,2,2,IoT,Data Analyst
+BSc Maths,Python Sensors,5,1,IoT,IoT Engineer
+BSc Maths,Python Embedded,1,3,IoT,Data Analyst
+BTech ECE,Sensors Python Embedded,0,1,IoT,AI Researcher
+BSc Maths,ML DL Python,5,2,AI,Software Engineer
+MSc Computer Science,JavaScript CSS HTML,3,3,Web,Data Analyst
+BTech IT,SQL Spring,2,1,Backend,Data Scientist
+BTech CSE,Python Sensors,2,1,IoT,Software Engineer
+MSc Physics,DL ML Python,4,2,AI,IoT Engineer
+MSc Computer Science,Python SQL Statistics,4,1,Data,Data Analyst
+BTech IT,SQL Spring Java,1,1,Backend,Data Scientist
+MSc Physics,Statistics ML,2,1,Research,AI Researcher
+MSc Computer Science,Python Statistics,4,3,Data,ML Engineer
+MSc Physics,ML Python,4,1,Research,Data Scientist
+MSc Computer Science,ML Python DL,0,1,AI,Data Scientist
+BTech CSE,CSS HTML JavaScript,5,0,Web,AI Researcher
+BSc Maths,Java SQL Spring,1,3,Backend,Software Engineer
+BTech ECE,ML DL,5,3,AI,Software Engineer
+MSc Computer Science,ML DL,2,0,AI,AI Researcher
+BTech CSE,SQL Statistics,1,0,Data,Data Scientist
+BTech CSE,Python ML,1,0,Research,Software Engineer
+BTech ECE,Python SQL Statistics,4,1,Data,IoT Engineer
+BSc Maths,DL ML Python,1,0,AI,AI Researcher
+MSc Physics,DL ML Python,1,2,AI,Data Analyst
+MSc Computer Science,Statistics ML Python,5,2,Research,Data Scientist
+BSc Maths,Java Spring SQL,4,2,Backend,IoT Engineer
+MSc Physics,JavaScript HTML,5,2,Web,Data Analyst
+BTech IT,HTML CSS,5,1,Web,IoT Engineer
+MSc Physics,Python ML,3,2,Research,Data Scientist
+BTech ECE,ML Python Statistics,5,2,Research,Data Analyst
+BTech IT,Spring SQL,1,1,Backend,Software Engineer
+BSc Maths,Python ML DL,0,0,AI,IoT Engineer
+BTech CSE,ML DL Python,2,0,AI,Software Engineer
+MSc Physics,Statistics Python SQL,3,3,Data,AI Researcher
+MSc Physics,Python Sensors Embedded,2,0,IoT,Software Engineer
+BTech ECE,SQL Java Spring,1,2,Backend,Data Scientist
+BTech IT,Sensors Embedded Python,0,2,IoT,Data Analyst
+BSc Maths,Spring SQL,4,1,Backend,IoT Engineer
+BTech IT,Spring SQL,0,1,Backend,Software Engineer
+BTech IT,Spring Java SQL,2,1,Backend,Software Engineer
+BTech IT,Python Embedded Sensors,1,3,IoT,AI Researcher
+BTech ECE,ML Statistics Python,2,1,Research,AI Researcher
+BSc Maths,JavaScript CSS,2,1,Web,Data Analyst
+BTech CSE,ML Python,2,3,Research,IoT Engineer
+BTech IT,Python SQL,0,3,Data,ML Engineer
+MSc Physics,Java SQL,2,0,Backend,Data Scientist
+BTech ECE,Java Spring,3,1,Backend,IoT Engineer
+BTech CSE,DL Python ML,2,0,AI,Software Engineer
+MSc Physics,Sensors Python,2,0,IoT,Data Scientist
+BTech IT,Spring Java SQL,0,0,Backend,Data Analyst
+BTech CSE,Python ML,1,3,AI,Data Analyst
+MSc Physics,Python Embedded Sensors,3,1,IoT,Data Analyst
+MSc Computer Science,Statistics Python ML,5,1,Research,IoT Engineer
+MSc Physics,DL Python ML,2,2,AI,Data Analyst
+MSc Physics,HTML JavaScript CSS,3,3,Web,AI Researcher

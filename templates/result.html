@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Career Recommendation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+<div class="container result-box">
+    <h1>Your Recommended Career</h1>
+
+    <h2>{{ career }}</h2>
+
+    <p class="confidence">
+        Match Confidence: <strong>{{ confidence }}%</strong>
+    </p>
+
+    <div class="explanation">
+        <h3>Why this career?</h3>
+        <p>{{ explanation }}</p>
+    </div>
+
+    {% if roadmap %}
+    <div class="roadmap">
+        <h3>Career Roadmap</h3>
+        <ul>
+            {% for step in roadmap %}
+            <li>{{ step }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
+    <a href="/" class="try-again-btn">
+    ← Try Again
+</a>
+
+</div>
+
+</body>
+</html>

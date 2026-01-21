@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Women in STEM – Career Guidance</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>Women in STEM</h1>
+        <p class="subtitle">Career Guidance Portal</p>
+    </header>
+
+    <form action="/predict" method="POST" onsubmit="showLoader()">
+
+        <div class="input-group">
+            <label>Education</label>
+            <select name="education" required>
+                <option>BTech CSE</option>
+                <option>BSc</option>
+                <option>MTech</option>
+            </select>
+        </div>
+
+        <div class="input-group">
+            <label>Skills (space separated)</label>
+            <input type="text" name="skills" placeholder="Python ML SQL" required>
+        </div>
+
+        <div class="row">
+            <div class="input-group">
+                <label>Experience (years)</label>
+                <input type="number" name="experience" value="0" min="0">
+            </div>
+            <div class="input-group">
+                <label>Career Gap (years)</label>
+                <input type="number" name="career_gap" value="0" min="0">
+            </div>
+        </div>
+
+        <div class="input-group">
+            <label>Interest</label>
+            <select name="interest" required>
+                <option value="ai">AI</option>
+                <option value="cybersecurity">Cybersecurity</option>
+                <option value="web development">Web Development</option>
+                <option value="data">Data</option>
+            </select>
+
+        </div>
+
+        <button type="submit" class="glow-button">
+            Get Career Recommendation
+        </button>
+    </form>
+</div>
+
+<!-- Loader -->
+<div id="loader" class="loader hidden"></div>
+
+<script>
+function showLoader() {
+    document.getElementById("loader").classList.remove("hidden");
+}
+</script>
+
+</body>
+</html>
